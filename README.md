@@ -1,7 +1,7 @@
 # Bulls-and-Cows
 The numerical version of famous math game (Быки и коровы)
 Requirments:
-  Python 3.6.2
+  Python 3.x
  
 ...
 Game is usually played with 4 digits, but can also be played with 3 or any other number of digits.
@@ -16,7 +16,6 @@ The first one to reveal the other's secret number wins the game. As the first pl
 The game may also be played by two teams of 2–3 players, with the team members discussing their strategy before selecting a move.
 ...
 
-Best regards:
-  Nihad Bakirli (c)  System Administrator in Sinam LTD
-
 Enjoying...
+
+author: @un1xman
